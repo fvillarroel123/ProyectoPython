@@ -1,0 +1,17 @@
+Presentación Proyecto Final
+Nombre: Felipe Villarroel Lecourt
+
+Librerias y Módulos utilizados:
+Python3
+Pip3
+Matplotlib
+Requests
+
+Descripción del proyecto:
+El proyecto se basa en las consultas disponibles de la API: https://api.gael.cl/.
+Es un menú de selección en el cual se debe escoger la opción que se quiere utilizar para acceder a los datos que se presentarán. Mediante la API se peude acceder a información referente a los valores de diferentes monedas, información climática que rescatan diferentes estaciones de Chile y además información sobre los últimos sismos registrados en el pais.
+
+Según la información entregada por la API, estos son los periodos de actualización de datos:
+- Los valores de tipo de cambio se actualizan cada 60 minutos desde la web del BANCO CENTRAL DE CHILE.
+- Los datos climáticos se actualizan acorde a lo entregado por la web de la DIRECCIÓN METEOROLÓGICA DE CHILE.
+- Los datos sismológicos se actualizan cada 5 minutos según la web del CENTRO SISMOLÓGICO NACIONAL.

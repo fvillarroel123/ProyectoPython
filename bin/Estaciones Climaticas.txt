@@ -1,0 +1,34 @@
+{'Codigo': 'SCFA', 'Estacion': 'Antofagasta', 'HoraUpdate': '19:00', 'Temp': '13', 'Humedad': '72', 'Estado': 'Nubosidad parcial', 'Icono': 'parcialalta.png'}
+{'Codigo': 'SCIR', 'Estacion': 'Arch. Juan Fernández', 'HoraUpdate': '18:00', 'Temp': '13', 'Humedad': '82', 'Estado': 'Nubosidad parcial', 'Icono': 'parcialalta.png'}
+{'Codigo': 'SCAR', 'Estacion': 'Arica', 'HoraUpdate': '18:00', 'Temp': '17', 'Humedad': '68', 'Estado': 'Nublado', 'Icono': 'parcial.png'}
+{'Codigo': 'SCBA', 'Estacion': 'Balmaceda', 'HoraUpdate': '18:00', 'Temp': '5', 'Humedad': '81', 'Estado': 'Cubierto y lluvia', 'Icono': 'lluvia.png'}
+{'Codigo': 'SCCF', 'Estacion': 'Calama', 'HoraUpdate': '18:00', 'Temp': '19', 'Humedad': '7', 'Estado': 'Despejado', 'Icono': 'despejado.png'}
+{'Codigo': 'SCAT', 'Estacion': 'Caldera', 'HoraUpdate': '19:00', 'Temp': '13', 'Humedad': '77', 'Estado': 'Nublado', 'Icono': 'parcial.png'}
+{'Codigo': 'SCCC', 'Estacion': 'Chile Chico', 'HoraUpdate': '18:00', 'Temp': '11', 'Humedad': '47', 'Estado': 'Nubosidad parcial', 'Icono': 'parcialalta.png'}
+{'Codigo': 'SCCH', 'Estacion': 'Chillán', 'HoraUpdate': '18:00', 'Temp': '14', 'Humedad': '59', 'Estado': 'Despejado', 'Icono': 'despejado.png'}
+{'Codigo': 'SCHR', 'Estacion': 'Cochrane', 'HoraUpdate': '18:00', 'Temp': '8', 'Humedad': '66', 'Estado': 'Nublado', 'Icono': 'parcial.png'}
+{'Codigo': 'SCIE', 'Estacion': 'Concepción', 'HoraUpdate': '18:00', 'Temp': '13', 'Humedad': '58', 'Estado': 'Despejado', 'Icono': 'despejado.png'}
+{'Codigo': 'SCCY', 'Estacion': 'Coyhaique', 'HoraUpdate': '19:00', 'Temp': '6', 'Humedad': '87', 'Estado': 'Cubierto y lluvia', 'Icono': 'lluvia.png'}
+{'Codigo': 'SCIC', 'Estacion': 'Curicó', 'HoraUpdate': '18:00', 'Temp': '13', 'Humedad': '58', 'Estado': 'Despejado', 'Icono': 'despejado.png'}
+{'Codigo': 'SCFT', 'Estacion': 'Futaleufú', 'HoraUpdate': '18:00', 'Temp': '8', 'Humedad': '76', 'Estado': 'Cubierto', 'Icono': 'cubierto.png'}
+{'Codigo': 'SCDA', 'Estacion': 'Iquique', 'HoraUpdate': '19:00', 'Temp': '16', 'Humedad': '68', 'Estado': 'Cubierto', 'Icono': 'cubierto.png'}
+{'Codigo': 'SCIP', 'Estacion': 'Isla de Pascua', 'HoraUpdate': '17:00', 'Temp': '22', 'Humedad': '73', 'Estado': 'Nubosidad parcial', 'Icono': 'parcialalta.png'}
+{'Codigo': 'SCSE', 'Estacion': 'La Serena/Coquimbo', 'HoraUpdate': '18:00', 'Temp': '13', 'Humedad': '72', 'Estado': 'Despejado', 'Icono': 'despejado.png'}
+{'Codigo': 'SCGE', 'Estacion': 'Los Ángeles', 'HoraUpdate': '18:00', 'Temp': '12', 'Humedad': '82', 'Estado': 'Despejado', 'Icono': 'despejado.png'}
+{'Codigo': 'SCMK', 'Estacion': 'Melinka', 'HoraUpdate': '19:00', 'Temp': '10', 'Humedad': '94', 'Estado': 'Cubierto y lluvia', 'Icono': 'lluvia.png'}
+{'Codigo': 'SCJO', 'Estacion': 'Osorno', 'HoraUpdate': '18:00', 'Temp': '11', 'Humedad': '66', 'Estado': 'Despejado', 'Icono': 'despejado.png'}
+{'Codigo': 'SCAP', 'Estacion': 'Palena', 'HoraUpdate': '18:00', 'Temp': '8', 'Humedad': '81', 'Estado': 'Cubierto y lluvia', 'Icono': 'lluvia.png'}
+{'Codigo': 'SCRM', 'Estacion': 'Península Antártica', 'HoraUpdate': '18:00', 'Temp': '-1', 'Humedad': '100', 'Estado': 'Cubierto y nevadas', 'Icono': 'nieve.png'}
+{'Codigo': 'SCAS', 'Estacion': 'Puerto Aysén', 'HoraUpdate': '18:00', 'Temp': '7', 'Humedad': '100', 'Estado': 'Cubierto y lluvia', 'Icono': 'lluvia.png'}
+{'Codigo': 'SCTE', 'Estacion': 'Puerto Montt', 'HoraUpdate': '18:00', 'Temp': '10', 'Humedad': '71', 'Estado': 'Cubierto', 'Icono': 'cubierto.png'}
+{'Codigo': 'SCCI', 'Estacion': 'Punta Arenas', 'HoraUpdate': '18:00', 'Temp': '4', 'Humedad': '93', 'Estado': 'Nubosidad parcial', 'Icono': 'parcialalta.png'}
+{'Codigo': 'SCON', 'Estacion': 'Quellón', 'HoraUpdate': '18:00', 'Temp': '9', 'Humedad': '100', 'Estado': 'Cubierto y llovizna', 'Icono': 'llovizna.png'}
+{'Codigo': 'SCRG', 'Estacion': 'Rancagua', 'HoraUpdate': '18:00', 'Temp': '17', 'Humedad': '34', 'Estado': 'Despejado', 'Icono': 'despejado.png'}
+{'Codigo': 'SCRD', 'Estacion': 'Rodelillo', 'HoraUpdate': '19:00', 'Temp': '16', 'Humedad': '48', 'Estado': 'Despejado', 'Icono': 'despejado.png'}
+{'Codigo': 'SCSN', 'Estacion': 'San Antonio/Cartagena', 'HoraUpdate': '18:00', 'Temp': '16', 'Humedad': '68', 'Estado': 'Despejado', 'Icono': 'despejado.png'}
+{'Codigo': 'SCQN', 'Estacion': 'Santiago Centro', 'HoraUpdate': '18:55', 'Temp': '13.9', 'Humedad': '48', 'Estado': 'Despejado y bruma', 'Icono': 'despejadohumo.png'}
+{'Codigo': 'SCTB', 'Estacion': 'Santiago Oriente', 'HoraUpdate': '19:00', 'Temp': '18', 'Humedad': '24', 'Estado': 'Despejado', 'Icono': 'despejado.png'}
+{'Codigo': 'SCEL', 'Estacion': 'Santiago Poniente', 'HoraUpdate': '18:00', 'Temp': '20', 'Humedad': '24', 'Estado': 'Despejado', 'Icono': 'despejado.png'}
+{'Codigo': 'SCQP', 'Estacion': 'Temuco', 'HoraUpdate': '18:00', 'Temp': '11', 'Humedad': '82', 'Estado': 'Despejado', 'Icono': 'despejado.png'}
+{'Codigo': 'SCVD', 'Estacion': 'Valdivia', 'HoraUpdate': '18:11', 'Temp': '7', 'Humedad': '100', 'Estado': 'Nubosidad parcial', 'Icono': 'parcialalta.png'}
+{'Codigo': 'SCVM', 'Estacion': 'Viña del Mar/Valparaíso', 'HoraUpdate': '18:00', 'Temp': '16', 'Humedad': '59', 'Estado': 'Despejado', 'Icono': 'despejado.png'}
