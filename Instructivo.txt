@@ -4,18 +4,18 @@ Nombre: Felipe Villarroel Lecourt
 Librerias y Módulos utilizados:
 Python3
 Pip3
-Matplotlib
 Requests
 
-Para poder utilizar el proyecto se deben instalar todos los módulos anteriormente descritos en un entorno virtual, como el que se encuentra subido, y posteriormente navegar hasta la carpeta "bin" para desplegar dentro de ella un Jupyter Notebook. El Notebook a utilizar se llama "Proyecto.ipynb"
+Para poder utilizar el proyecto se deben instalar todos los módulos anteriormente descritos en un entorno virtual, como el que se encuentra subido, y posteriormente navegar hasta la carpeta "bin" para desplegar dentro de ella un Jupyter Notebook. El Notebook a utilizar se llama "Proyecto Final.ipynb"
 
 Descripción del proyecto:
-El proyecto se basa en las consultas disponibles de la API: https://api.gael.cl/.
-Es un menú de selección en el cual se debe escoger la opción que se quiere utilizar para acceder a los datos que se presentarán. Mediante la API se puede acceder a información referente a los valores de diferentes monedas, información climática que rescatan diferentes estaciones de Chile y además información sobre los últimos sismos registrados en el pais.
+El proyecto se basa en las consultas disponibles de la API: https://api.gael.cl/, la cual contiene su documentación en su sitio.
+El proyecto consta de un menú de selección en el cual se debe escoger la opción que se quiere utilizar para acceder a los datos que se presentarán. Mediante la API se puede acceder a información referente a los valores de diferentes monedas, información climática que rescatan diferentes estaciones de Chile y además información sobre los últimos sismos registrados en el pais.
 
-Existen 2 conclusiones respecto a las consultas realizadas, las cuales se encuentran luego de visitar las secciones 1 (Consultar todos los indicadores económicos), 2 (Estaciones Climáticas) y 5 (Últimos Sismos).
+Existen 3 conclusiones respecto a las consultas realizadas, las cuales se encuentran luego de visitar las secciones 1 (Consultar todos los indicadores económicos), 2 (Estaciones Climáticas) y 5 (Últimos Sismos).
+Para las secciones antes mencionadas también se crean archivos de texto, guardados en el mismo directorio, con la información de las consultas que se realizan a la API.
 
-Según la información entregada por la API, estos son los periodos de actualización de datos:
+Según la documentación de la API, estos son los periodos de actualización de datos:
 - Los valores de tipo de cambio se actualizan cada 60 minutos desde la web del BANCO CENTRAL DE CHILE.
 - Los datos climáticos se actualizan acorde a lo entregado por la web de la DIRECCIÓN METEOROLÓGICA DE CHILE.
 - Los datos sismológicos se actualizan cada 5 minutos según la web del CENTRO SISMOLÓGICO NACIONAL.
