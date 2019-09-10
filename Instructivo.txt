@@ -6,7 +6,7 @@ Python3
 Pip3
 Requests
 
-Para poder utilizar el proyecto se deben instalar todos los módulos anteriormente descritos en un entorno virtual, como el que se encuentra subido, y posteriormente navegar hasta la carpeta "bin" para desplegar dentro de ella un Jupyter Notebook. El Notebook a utilizar se llama "Proyecto Final.ipynb"
+Para poder utilizar el proyecto se deben instalar todos los módulos anteriormente descritos en un entorno virtual llamado "ProyectoPython", el cual genera las carpetas de este directorio, y posteriormente navegar hasta la carpeta "bin" para desplegar dentro de ella un Jupyter Notebook. El Notebook a utilizar se llama "Proyecto Final.ipynb"
 
 Descripción del proyecto:
 El proyecto se basa en las consultas disponibles de la API: https://api.gael.cl/, la cual contiene su documentación en su sitio.
